@@ -1,0 +1,15 @@
+# Menu;price
+Sticky rice;6.0
+Papaya salad;35.0
+Spicy thai fruit salad;40.0
+seafood salad;65.0
+Grilled chicken;55.0
+Chicken wings;60.0
+Chicken legs;50.0
+Ground pork salad;45.0
+Beef salad;75.0
+apple juice;35.0
+CHEVAL DES ANDES 2009;9895.0
+black coffee;44.0
+black tea;46.0
+brandy;180.0
